@@ -1,4 +1,5 @@
 # Mon Projet
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 [![gh_version](https://img.shields.io/github/package-json/v/chbkSamy/CC1-DEVOPS-3INFO-SAMY-C)](https://github.com/chbkSamy/CC1-DEVOPS-3INFO-SAMY-C/blob/main/package.json)
 [![gh_stars](https://img.shields.io/github/stars/chbkSamy/CC1-DEVOPS-3INFO-SAMY-C)](https://github.com/chbkSamy/CC1-DEVOPS-3INFO-SAMY-C/stargazers)
@@ -7,7 +8,8 @@
 [![gh_open_issues](https://img.shields.io/github/issues/chbkSamy/CC1-DEVOPS-3INFO-SAMY-C?color=blue)](https://github.com/chbkSamy/CC1-DEVOPS-3INFO-SAMY-C/issues)
 [![gh_closed_issues](https://img.shields.io/github/issues-closed/chbkSamy/CC1-DEVOPS-3INFO-SAMY-C?color=blue)](https://github.com/chbkSamy/CC1-DEVOPS-3INFO-SAMY-C/issues?q=is%3Aissue+is%3Aclosed)
 [![gh_open_pr](https://img.shields.io/github/issues-pr/chbkSamy/CC1-DEVOPS-3INFO-SAMY-C?color=orange)](https://github.com/chbkSamy/CC1-DEVOPS-3INFO-SAMY-C/pulls)
-[![gh_dependencies](https://img.shields.io/david/chbkSamy/CC1-DEVOPS-3INFO-SAMY-C)](https://david-dm.org/chbkSamy/CC1-DEVOPS-3INFO-SAMY-C)
+[![Dependencies](https://img.shields.io/david/chbkSamy/CC1-DEVOPS-3INFO-SAMY-C)](https://david-dm.org/chbkSamy/CC1-DEVOPS-3INFO-SAMY-C)
+
 [![gh_repo_size](https://img.shields.io/github/repo-size/chbkSamy/CC1-DEVOPS-3INFO-SAMY-C)](https://github.com/chbkSamy/CC1-DEVOPS-3INFO-SAMY-C)
 [![gh_code_size](https://img.shields.io/github/languages/code-size/chbkSamy/CC1-DEVOPS-3INFO-SAMY-C)](https://github.com/chbkSamy/CC1-DEVOPS-3INFO-SAMY-C)
 <!-- [![travis_com](https://api.travis-ci.com/chbkSamy/CC1-DEVOPS-3INFO-SAMY-C.svg?branch=master)](https://travis-ci.com/chbkSamy/CC1-DEVOPS-3INFO-SAMY-C)
