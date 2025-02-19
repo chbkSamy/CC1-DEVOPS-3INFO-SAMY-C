@@ -11,6 +11,7 @@
 [![devDependency Status](https://img.shields.io/david/dev/chbkSamy/CC1-DEVOPS-3INFO-SAMY-C)](https://david-dm.org/chbkSamy/CC1-DEVOPS-3INFO-SAMY-C?type=dev)
 [![gh_repo_size](https://img.shields.io/github/repo-size/chbkSamy/CC1-DEVOPS-3INFO-SAMY-C)](https://github.com/chbkSamy/CC1-DEVOPS-3INFO-SAMY-C)
 [![gh_code_size](https://img.shields.io/github/languages/code-size/chbkSamy/CC1-DEVOPS-3INFO-SAMY-C)](https://github.com/chbkSamy/CC1-DEVOPS-3INFO-SAMY-C)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/d07fe8b4-3b5c-41ac-9734-d43641e042b1/deploy-status)](https://app.netlify.com/sites/devopscheb/deploys)
 <!-- [![travis_com](https://api.travis-ci.com/chbkSamy/CC1-DEVOPS-3INFO-SAMY-C.svg?branch=master)](https://travis-ci.com/chbkSamy/CC1-DEVOPS-3INFO-SAMY-C)
 [![travis_org](https://api.travis-ci.org/chbkSamy/CC1-DEVOPS-3INFO-SAMY-C.svg?branch=master)](https://travis-ci.org/chbkSamy/<votre-repo>) -->
 
