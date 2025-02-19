@@ -1,6 +1,6 @@
 # Mon Projet
 
-[![Run Unit Tests](https://github.com/chbkSamy/CC1-DEVOPS-3INFO-SAMY-C/actions/workflows/run-tests.yml/badge.svg)](https://github.com/chbkSamy/CC1-DEVOPS-3INFO-SAMY-C/actions/workflows/run-tests.yml)
+![Statut des tests](https://img.shields.io/endpoint?url=https://chbkSamy.github.io/CC1-DEVOPS-3INFO-SAMY-C/badges/badge.json)
 [![gh_license](https://img.shields.io/github/license/chbkSamy/CC1-DEVOPS-3INFO-SAMY-C)](https://github.com/chbkSamy/CC1-DEVOPS-3INFO-SAMY-C/blob/main/LICENSE)
 [![gh_version](https://img.shields.io/github/package-json/v/chbkSamy/CC1-DEVOPS-3INFO-SAMY-C)](https://github.com/chbkSamy/CC1-DEVOPS-3INFO-SAMY-C/blob/main/package.json)
 [![gh_stars](https://img.shields.io/github/stars/chbkSamy/CC1-DEVOPS-3INFO-SAMY-C)](https://github.com/chbkSamy/CC1-DEVOPS-3INFO-SAMY-C/stargazers)

@@ -25,11 +25,18 @@ jobs:
         run: npm install
 
       - name: Run unit tests
-        run: npm test
+        run: |
+          npm test
+          if [ $? -eq 0 ]; then
+            echo '{"schemaVersion": 1, "label": "Tests", "message": "passing", "color": "green"}' > badge.json
+          else
+            echo '{"schemaVersion": 1, "label": "Tests", "message": "failing", "color": "red"}' > badge.json
+          fi
 
-      - name: Generate test badge
-        uses: jzweifel/github-action-badge@v1
+      - name: Upload badge to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
         with:
-          type: tests
-          status: ${{ job.status }}
-          color: ${{ job.status == 'success' && 'green' || 'red' }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./
+          destination_dir: badges
+          keep_files: true
