@@ -24,26 +24,5 @@ jobs:
       - name: Install dependencies
         run: npm install
 
-      - name: Run unit tests and collect results
-        run: |
-          mkdir -p test-results
-          npm test > test-results/results.txt
-
-      - name: Update README with test results
-        run: |
-          echo "## Résultats des tests unitaires" > temp_readme.md
-          echo '```' >> temp_readme.md
-          cat test-results/results.txt >> temp_readme.md
-          echo '```' >> temp_readme.md
-          cat README.md >> temp_readme.md
-          mv temp_readme.md README.md
-
-      - name: Commit changes
-        run: |
-          git config --local user.name "GitHub Actions"
-          git config --local user.email "actions@github.com"
-          git add README.md
-          git commit -m "Mise à jour des résultats des tests unitaires"
-          git push
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Run unit tests
+        run: npm test

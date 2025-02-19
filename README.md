@@ -1,5 +1,6 @@
 # Mon Projet
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+![Tests](https://github.com/chbkSamy/CC1-DEVOPS-3INFO-SAMY-C/actions/workflows/tests.yml/badge.svg)
 [![gh_version](https://img.shields.io/github/package-json/v/chbkSamy/CC1-DEVOPS-3INFO-SAMY-C)](https://github.com/chbkSamy/CC1-DEVOPS-3INFO-SAMY-C/blob/main/package.json)
 [![gh_stars](https://img.shields.io/github/stars/chbkSamy/CC1-DEVOPS-3INFO-SAMY-C)](https://github.com/chbkSamy/CC1-DEVOPS-3INFO-SAMY-C/stargazers)
 [![gh_forks](https://img.shields.io/github/forks/chbkSamy/CC1-DEVOPS-3INFO-SAMY-C)](https://github.com/chbkSamy/CC1-DEVOPS-3INFO-SAMY-C/network/members)
@@ -17,5 +18,6 @@
 ## Description
 
 Ce projet est un exemple d'utilisation de GitHub Actions pour exécuter des tests unitaires et déployer automatiquement sur Netlify.
+lien vers le site : https://devopscheb.netlify.app
 
 
