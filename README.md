@@ -7,6 +7,23 @@
 
 [1m[7m[36m RUN [39m[27m[22m [36mv3.0.5 [39m[90m/home/runner/work/CC1-DEVOPS-3INFO-SAMY-C/CC1-DEVOPS-3INFO-SAMY-C[39m
 
+ [32m✓[39m src/App.test.jsx [2m([22m[2m1 test[22m[2m)[22m[90m 97[2mms[22m[39m
+
+[2m Test Files [22m [1m[32m1 passed[39m[22m[90m (1)[39m
+[2m      Tests [22m [1m[32m1 passed[39m[22m[90m (1)[39m
+[2m   Start at [22m 08:30:25
+[2m   Duration [22m 949ms[2m (transform 56ms, setup 81ms, collect 108ms, tests 97ms, environment 400ms, prepare 79ms)[22m
+
+```
+## Résultats des tests unitaires
+```
+
+> cc1-devops-3info@0.0.0 test
+> vitest
+
+
+[1m[7m[36m RUN [39m[27m[22m [36mv3.0.5 [39m[90m/home/runner/work/CC1-DEVOPS-3INFO-SAMY-C/CC1-DEVOPS-3INFO-SAMY-C[39m
+
  [32m✓[39m src/App.test.jsx [2m([22m[2m1 test[22m[2m)[22m[90m 101[2mms[22m[39m
 
 [2m Test Files [22m [1m[32m1 passed[39m[22m[90m (1)[39m
