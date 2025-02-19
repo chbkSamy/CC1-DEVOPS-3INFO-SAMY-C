@@ -1,6 +1,6 @@
 # Mon Projet
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-![Tests](https://github.com/chbkSamy/CC1-DEVOPS-3INFO-SAMY-C/actions/workflows/deploy-netlify.yml/badge.svg)
+![Tests](https://github.com/chbkSamy/CC1-DEVOPS-3INFO-SAMY-C/actions/workflows/run-tests.yml/badge.svg)
 
 [![gh_version](https://img.shields.io/github/package-json/v/chbkSamy/CC1-DEVOPS-3INFO-SAMY-C)](https://github.com/chbkSamy/CC1-DEVOPS-3INFO-SAMY-C/blob/main/package.json)
 [![gh_stars](https://img.shields.io/github/stars/chbkSamy/CC1-DEVOPS-3INFO-SAMY-C)](https://github.com/chbkSamy/CC1-DEVOPS-3INFO-SAMY-C/stargazers)
